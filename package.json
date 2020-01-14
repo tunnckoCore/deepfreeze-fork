@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "deepfreeze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@tunnckocore/eslint-config": "^5.0.10",
+    "@tunnckocore/prettier-config": "^1.0.4",
+    "eslint": "^6.6.0",
+    "prettier": "^1.19.1"
+  }
+}
